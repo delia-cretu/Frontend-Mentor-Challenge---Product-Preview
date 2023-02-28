@@ -1,6 +1,5 @@
 body{
     background-color: #F4ece4;
-    
 }
 
 img{
@@ -18,8 +17,6 @@ img{
 
     width: 600px;
     height: 450px;
-    margin-top: 175px;
-    margin-left: 550px;
 }
 
 .photo-section{
@@ -84,6 +81,8 @@ span{ vertical-align: middle; }
     font-family: "Montserrat";
     font-weight: 700;
 }
+
+.data-toggle
 
 .attribution { 
     font-size: 11px; 
